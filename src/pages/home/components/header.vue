@@ -11,7 +11,6 @@
 </template>
 <script>
 export default {
-    
 }
 </script>
 <style lang='stylus' scoped>
@@ -43,5 +42,4 @@ export default {
             text-align:center
             .arrow-icon
                 font-size:.24rem
-                
 </style>
