@@ -31,7 +31,7 @@ export default {
             height .64rem
             line-height .64rem
             margin-top:.12rem
-            margin-left:.2rem
+            margin-left: .2rem
             padding-left .2rem
             background:#fff
             border-radius:.1rem
