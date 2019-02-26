@@ -45,7 +45,6 @@ export default {
       this.lastCity = this.city
       this.getHomeInfo()
     }
-    this.getHomeInfo()
   },
   methods: {
     getHomeInfo () {
